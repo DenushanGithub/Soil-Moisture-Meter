@@ -1,1 +1,3 @@
 # Soil-Moisture-Meter
+
+The Greenhouse Soil Moisture Monitoring System is an advanced solution developed using C++ to optimize plant watering schedules in a greenhouse environment, effectively preventing overwatering. The system is designed to continuously track soil moisture levels and send real-time data to a server-hosted spreadsheet for comprehensive historical analysis and monitoring. Additionally, it integrates the Discord messaging API to provide timely notifications to users when soil moisture levels fall below predefined thresholds, ensuring prompt intervention. To enhance reliability, error handling mechanisms are implemented to mitigate potential sensor data inaccuracies, making the system robust and efficient.
